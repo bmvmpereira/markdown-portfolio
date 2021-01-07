@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can do some stuff like ten pull-ups in a row, programming in **Python** and write on a computer at an *average rate* of **38 WPM**
