@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#Bernardo Pereira 
+##A portofolio with lessons from GitHub
