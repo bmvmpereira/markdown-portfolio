@@ -1,2 +1,2 @@
-#Bernardo Pereira 
-##A portofolio with lessons from GitHub
+# Bernardo Pereira 
+## A portofolio with lessons from GitHub
